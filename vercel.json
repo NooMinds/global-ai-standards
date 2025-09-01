@@ -1,4 +1,5 @@
 {
-  "buildCommand": "python3 -m pip install -r feat/initial-standards-site/requirements.txt && cd feat/initial-standards-site && python3 -m mkdocs build",
-  "outputDirectory": "feat/initial-standards-site/site"
+  "buildCommand": "python3 -m pip install -r initial-standards-site/requirements.txt && cd initial-standards-site && python3 -m mkdocs build",
+  "outputDirectory": "initial-standards-site/site"
 }
+
