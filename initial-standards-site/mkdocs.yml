@@ -2,7 +2,6 @@ site_name: Global AI Standards (GAS)
 site_description: "Single source of truth for GAS AI standards, governance, and compliance."
 
 repo_url: https://github.com/NooMinds/global-ai-standards
-# Docs live in this subfolder of the repo:
 edit_uri: edit/main/initial-standards-site/docs/
 
 nav:
@@ -15,34 +14,12 @@ nav:
 theme:
   name: material
   language: en
-  features:
-    - navigation.instant
-    - search.suggest
-    - search.highlight
-    - toc.integrate
-    - content.action.edit   # pencil icon (Edit this page)
-    - content.action.view   # View source
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: cyan
-  icon:
-    logo: material/robot-outline
-    repo: fontawesome/brands/github
 
 plugins:
   - search
-  - git-revision-date-localized:
-      type: date
-      fallback_to_build_date: true
 
 markdown_extensions:
-  - admonition
   - toc:
       permalink: true
-      toc_depth: 3
-  - pymdownx.frontmatter
-  - meta
-  - pymdownx.snippets
-
 docs_dir: docs
+
