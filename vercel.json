@@ -1,0 +1,4 @@
+{
+  "buildCommand": "python3 -m pip install -r feat/initial-standards-site/requirements.txt && cd feat/initial-standards-site && python3 -m mkdocs build",
+  "outputDirectory": "feat/initial-standards-site/site"
+}
