@@ -3,6 +3,7 @@ site_description: "Single source of truth for GAS AI standards, governance, and 
 
 nav:
   - Home: index.md
+  - Standards: standards.md
 
 theme:
   name: material
