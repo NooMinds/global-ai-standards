@@ -10,6 +10,8 @@ nav:
   - Compliance Quick-Guide: compliance.md
   - Templates: templates.md
   - Contribute: contribute.md
+  - About: about.md
+
 
 theme:
   name: material
