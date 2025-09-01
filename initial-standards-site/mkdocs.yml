@@ -5,6 +5,8 @@ nav:
   - Home: index.md
   - Standards: standards.md
   - Compliance Quick-Guide: compliance.md
+  - Templates: templates.md
+    
 theme:
   name: material
   language: en
