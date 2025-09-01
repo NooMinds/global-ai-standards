@@ -1,0 +1,30 @@
+site_name: Global AI Standards (GAS)
+site_description: "Single source of truth for GAS AI standards, governance, and compliance."
+
+nav:
+  - Home: index.md
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: cyan
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+docs_dir: docs
