@@ -6,11 +6,16 @@ edit_uri: edit/main/initial-standards-site/docs/
 
 nav:
   - Home: index.md
-  - Standards: standards.md
+  - Standards:
+      - Overview: standards.md
+      - Model Development: standards/model-development.md
+      - Data Governance: standards/data-governance.md
+      - "MLOps & Release": standards/mlops-release.md
+      - Evaluation & Monitoring: standards/evaluation-monitoring.md
   - Compliance Quick-Guide: compliance.md
   - Templates: templates.md
   - Contribute: contribute.md
-  - About: about.md
+
 
 
 theme:
