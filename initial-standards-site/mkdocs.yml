@@ -29,5 +29,9 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 3
+  - pymdownx.frontmatter   # support YAML front matter (---)
+  - meta                   # expose page metadata
+  - pymdownx.snippets      # (optional) enable reusable includes
+
 
 docs_dir: docs
