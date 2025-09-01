@@ -46,6 +46,5 @@ markdown_extensions:
   - pymdownx.snippets
 
 docs_dir: docs
-
 extra_javascript:
   - assets/edit-this-page.js
