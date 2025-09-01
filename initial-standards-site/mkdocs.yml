@@ -6,6 +6,8 @@ nav:
   - Standards: standards.md
   - Compliance Quick-Guide: compliance.md
   - Templates: templates.md
+  - Contribute: contribute.md
+
     
 theme:
   name: material
