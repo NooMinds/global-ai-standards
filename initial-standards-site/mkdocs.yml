@@ -1,8 +1,8 @@
 site_name: Global AI Standards (GAS)
 site_description: "Single source of truth for GAS AI standards, governance, and compliance."
 
-# Enables 'Edit this page' + repo link
 repo_url: https://github.com/NooMinds/global-ai-standards
+# Docs live in a subfolder of the repo, so point GitHub's editor to that path:
 edit_uri: edit/main/initial-standards-site/docs/
 
 nav:
@@ -17,12 +17,11 @@ theme:
   language: en
   features:
     - navigation.instant
-    - content.code.copy
     - search.suggest
     - search.highlight
     - toc.integrate
-    - content.action.edit
-    - content.action.view
+    - content.action.edit   # shows the pencil "Edit this page"
+    - content.action.view   # shows "View source"
   palette:
     - scheme: default
       primary: indigo
@@ -42,7 +41,8 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 3
-  - pymdownx.frontmatter   # front matter support
-  - meta                   # expose page metadata
-  - pymdownx.snippets      # optional includes
+  - pymdownx.frontmatter
+  - meta
+  - pymdownx.snippets
+
 docs_dir: docs
