@@ -4,7 +4,7 @@ site_description: "Single source of truth for GAS AI standards, governance, and 
 nav:
   - Home: index.md
   - Standards: standards.md
-
+  - Compliance Quick-Guide: compliance.md
 theme:
   name: material
   language: en
