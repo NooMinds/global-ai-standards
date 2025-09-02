@@ -1,4 +1,6 @@
-# Global AI Standards (GAS)
+# Global AI Standards
+
+**Accurate, Compliant, Safe and Politically Correct!**
 
 Pick what you need. Four clear standards, four clear paths.
 
@@ -23,12 +25,12 @@ Pick what you need. Four clear standards, four clear paths.
 </a>
 
 <a class="tile" href="business-standards/">
-  <h2>Global AI Business Standards (GABS)</h2>
+  <h2>Global AI Business Standards</h2>
   <p>Practical rules for teams. Includes Compliance Quick-Guide + Templates.</p>
 </a>
 
 <a class="tile" href="business-enterprise/">
-  <h2>Global AI Business Enterprise</h2>
+  <h2>Global AI Business Enterprise Standard</h2>
   <p>Audit-ready deployments: evidence packs, roles, monitoring.</p>
 </a>
 
@@ -37,7 +39,7 @@ Pick what you need. Four clear standards, four clear paths.
 ---
 
 ## Not sure where to start?
-- Building or using AI at work? Go to **GABS**.
-- Need audit evidence or enterprise controls? **GABS Enterprise**.
+- Building or using AI at work? Go to **Business Standards**.
+- Need audit evidence or enterprise controls? **Business Enterprise Standard**.
 - Personal use only? **Personal Standard**.
 - Anything that might reach children? **Child Safety** first.
