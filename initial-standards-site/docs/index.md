@@ -32,9 +32,10 @@ Pick the path you need. Four clear standards. No jargon.
 <div class="tiles">
 
 <a class="tile" href="child-safety/">
-  <h2>Global AI Child Safety</h2>
-  <p>Exam-backed child-safety standard. Safe-by-default design, filters, reporting — and a badge to prove it.</p>
+  <h2>Global AI Child Safety <span class="pill">Free</span></h2>
+  <p><strong>Free standard + free baseline exam.</strong> Protect children by design: safe defaults, filters, reporting and clear escalation.</p>
 </a>
+
 
 <a class="tile" href="personal-standard/">
   <h2>Global AI Personal Standard</h2>
