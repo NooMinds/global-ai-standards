@@ -1,18 +1,22 @@
 # Global AI Business Standards
 
-Practical standards for teams building or using AI at work.
+Get reliable, defensible AI into production — fast.
 
-## What this covers
-- How to ship responsibly (from idea → launch)
-- Evidence to keep (so we can pass audits)
-- Clear go/no-go checks before release
+## Who this is for
+Product, data and compliance teams delivering AI inside a business.
 
-## Quick links
+## Outcomes
+- Clear go/no-go gates before release
+- Documented evidence for reviews and audits
+- Fewer surprises post-launch (rollback + monitoring)
+
+## What you do (simple)
+1. Define the problem and success criteria
+2. Map your data (source, rights, retention)
+3. Run an evaluation and record results
+4. Prepare a rollback plan and monitoring
+
+## Tools you can use now
 - **Compliance Quick-Guide** → [read it](compliance.md)
 - **Templates & Checklists** → [grab them](templates.md)
 
-## Start here
-1. Write the problem to solve and success criteria
-2. Map the data (source, rights, retention)
-3. Run an evaluation and record results
-4. Keep a rollback plan and monitoring after release
