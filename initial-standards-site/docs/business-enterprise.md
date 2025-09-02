@@ -1,4 +1,4 @@
-# Global AI Business Enterprise (GABS Enterprise)
+# Global AI Business Standard - Enterprise
 
 For enterprise deployments that need audit-ready evidence and controls.
 
