@@ -1,4 +1,4 @@
-# Global AI Business Standards (GABS)
+# Global AI Business Standards
 
 Practical standards for teams building or using AI at work.
 
