@@ -11,22 +11,7 @@ Pick the path you need. Four clear standards. No jargon.
 .tile:hover{box-shadow:0 4px 12px rgba(0,0,0,.08)}
 .tile h2{margin:0 0 .25rem 0;font-size:1.1rem}
 .tile p{margin:.25rem 0 0 0;color:#4b5563}
-<style>
-/* …your existing tile styles… */
-.pill{
-  display:inline-block;
-  margin-left:.5rem;
-  padding:2px 6px;
-  font-size:.7rem;
-  font-weight:700;
-  color:#fff;
-  background:#10b981; /* emerald = free */
-  border-radius:999px;
-  text-transform:uppercase;
-  letter-spacing:.02em;
-}
-</style>
-
+.pill{display:inline-block;margin-left:.5rem;padding:2px 6px;font-size:.7rem;font-weight:700;color:#fff;background:#10b981;border-radius:999px;text-transform:uppercase;letter-spacing:.02em}
 </style>
 
 <div class="tiles">
@@ -36,20 +21,19 @@ Pick the path you need. Four clear standards. No jargon.
   <p><strong>Free standard + free baseline exam.</strong> Protect children by design: safe defaults, filters, reporting and clear escalation.</p>
 </a>
 
-
 <a class="tile" href="personal-standard/">
   <h2>Global AI Personal Standard</h2>
-  <p>Copy-paste personal AI rules. Take a quick baseline test, apply the instruction, earn your badge.</p>
+  <p>Copy-paste personal AI rules. Baseline test → apply instruction → earn your badge.</p>
 </a>
 
 <a class="tile" href="business-standards/">
   <h2>Global AI Business Standards</h2>
-  <p>Operational standard for teams: clear go/no-go gates, compliance built in, evidence you can show.</p>
+  <p>Operational standard for teams: go/no-go gates, compliance built in, evidence you can show.</p>
 </a>
 
 <a class="tile" href="business-enterprise/">
   <h2>Global AI Business Enterprise Standard</h2>
-  <p>Enhanced compliance tier: audit-ready packs, audit tracking, ISO/UK readiness papers, and 20 exams included.</p>
+  <p>Enhanced compliance: audit-ready packs, tracking, ISO/UK readiness papers, 20 exams included.</p>
 </a>
 
 </div>
@@ -64,9 +48,4 @@ Pick the path you need. Four clear standards. No jargon.
 5. **≥95%** earns a badge; **<95%** get a booster to improve  
 6. Scores feed our quarterly benchmarks (industry leaderboard)
 
-## Not sure where to start?
-- Building or using AI at work? **Business Standards**.  
-- Need audit evidence or enterprise controls? **Business Enterprise Standard**.  
-- Personal use only? **Personal Standard**.  
-- Anything that might reach children? **Child Safety** first.
 
