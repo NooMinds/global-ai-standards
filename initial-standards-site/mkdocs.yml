@@ -6,15 +6,21 @@ edit_uri: edit/main/initial-standards-site/docs/
 
 nav:
   - Home: index.md
-  - Standards:
-      - Overview: standards.md
+  - Global AI Child Safety: child-safety.md
+  - Global AI Personal Standard: personal-standard.md
+  - Global AI Business Standards (GABS):
+      - Overview: business-standards.md
+      - Compliance Quick-Guide: compliance.md
+      - Templates & Checklists: templates.md
+  - Global AI Business Enterprise (GABS Enterprise): business-enterprise.md
+  - Contribute: contribute.md
+  - Reference (optional):
+      - Standards Overview: standards.md
       - Model Development: standards/model-development.md
       - Data Governance: standards/data-governance.md
       - "MLOps & Release": standards/mlops-release.md
       - Evaluation & Monitoring: standards/evaluation-monitoring.md
-  - Compliance Quick-Guide: compliance.md
-  - Templates: templates.md
-  - Contribute: contribute.md
+
 
 
 
