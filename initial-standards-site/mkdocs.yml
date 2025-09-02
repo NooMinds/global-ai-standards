@@ -12,6 +12,8 @@ nav:
       - Overview: business-standards.md
       - Compliance Quick-Guide: compliance.md
       - Templates & Checklists: templates.md
+      - Custom Instructions: custom-instructions.md
+      - Subject Instructions: subject-instructions.md
   - Global AI Business Enterprise Standard: business-enterprise.md
   - Contribute: contribute.md
   - Reference (optional):
@@ -20,6 +22,7 @@ nav:
       - Data Governance: standards/data-governance.md
       - "MLOps & Release": standards/mlops-release.md
       - Evaluation & Monitoring: standards/evaluation-monitoring.md
+
 
 
 
