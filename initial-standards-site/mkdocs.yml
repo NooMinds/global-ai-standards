@@ -1,4 +1,4 @@
-site_name: Global AI Standards (GAS)
+site_name: Global AI Standards
 site_description: "Single source of truth for GAS AI standards, governance, and compliance."
 
 repo_url: https://github.com/NooMinds/global-ai-standards
@@ -8,11 +8,11 @@ nav:
   - Home: index.md
   - Global AI Child Safety: child-safety.md
   - Global AI Personal Standard: personal-standard.md
-  - Global AI Business Standards (GABS):
+  - Global AI Business Standards:
       - Overview: business-standards.md
       - Compliance Quick-Guide: compliance.md
       - Templates & Checklists: templates.md
-  - Global AI Business Enterprise (GABS Enterprise): business-enterprise.md
+  - Global AI Business Enterprise Standard: business-enterprise.md
   - Contribute: contribute.md
   - Reference (optional):
       - Standards Overview: standards.md
@@ -20,6 +20,7 @@ nav:
       - Data Governance: standards/data-governance.md
       - "MLOps & Release": standards/mlops-release.md
       - Evaluation & Monitoring: standards/evaluation-monitoring.md
+
 
 
 
