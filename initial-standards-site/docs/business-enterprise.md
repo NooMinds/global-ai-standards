@@ -1,13 +1,19 @@
-# Global AI Business Standard Enterprise
+# Global AI Business Enterprise Standard
 
-For enterprise deployments that need audit-ready evidence and controls.
+When your AI deployment needs to be audit-ready.
 
-## What this covers
-- Audit packs (risk log, model card, data sheet, evals)
-- Role clarity (Provider vs Deployer)
-- Post-market monitoring and incident response
+## Who this is for
+Enterprise teams operating in regulated or high-risk contexts.
 
-## Start here
-- Use the **Templates** to create your audit pack: model card, data sheet, risk log
+## Outcomes
+- Complete evidence pack per release (model card, data sheet, risk log, evals)
+- Role clarity (Provider vs Deployer) and approvals trail
+- Ongoing performance + incident monitoring
+
+## What you do (simple)
+- Use **Templates** to build your audit pack: model card, data sheet, risk log, eval record
 - Follow the **Compliance Quick-Guide** for EU AI Act / ISO 42001 / NIST AI RMF
 - Keep all artifacts together per release (one folder)
+
+**Links:** [Compliance](compliance.md) · [Templates](templates.md)
+
