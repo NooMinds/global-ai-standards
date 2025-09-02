@@ -11,6 +11,22 @@ Pick the path you need. Four clear standards. No jargon.
 .tile:hover{box-shadow:0 4px 12px rgba(0,0,0,.08)}
 .tile h2{margin:0 0 .25rem 0;font-size:1.1rem}
 .tile p{margin:.25rem 0 0 0;color:#4b5563}
+<style>
+/* …your existing tile styles… */
+.pill{
+  display:inline-block;
+  margin-left:.5rem;
+  padding:2px 6px;
+  font-size:.7rem;
+  font-weight:700;
+  color:#fff;
+  background:#10b981; /* emerald = free */
+  border-radius:999px;
+  text-transform:uppercase;
+  letter-spacing:.02em;
+}
+</style>
+
 </style>
 
 <div class="tiles">
