@@ -1,13 +1,14 @@
 # Global AI Personal Standard
 
-Simple rules for individuals using AI tools safely and responsibly.
+Use AI tools safely as an individual.
 
-## What this covers
-- Privacy basics (what not to paste into AI tools)
-- Fact-checking and disclosure
-- Personal data rights
+## Outcomes
+- Fewer mistakes and misuses
+- Respectful outputs
+- Privacy protected
 
-## Start here
-- Don’t share private or sensitive info
-- Double-check outputs before using them
+## What you do (simple)
+- Don’t paste sensitive or private info into AI tools
+- Double-check outputs; disclose AI assistance where needed
 - If in doubt, ask a human reviewer
+
