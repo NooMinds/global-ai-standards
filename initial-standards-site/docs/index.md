@@ -1,6 +1,7 @@
 # Global AI Standards
 
-**Accurate, Compliant, Safe and Politically Correct!**
+**Accurate, Compliant, Safe and Politically Correct!**  
+*Trust AI. Protect People. Prove Compliance.*
 
 Pick the path you need. Four clear standards. No jargon.
 
@@ -16,30 +17,39 @@ Pick the path you need. Four clear standards. No jargon.
 
 <a class="tile" href="child-safety/">
   <h2>Global AI Child Safety</h2>
-  <p>Protect children by design: safe defaults, filters, reporting and clear escalation.</p>
+  <p>Exam-backed child-safety standard. Safe-by-default design, filters, reporting — and a badge to prove it.</p>
 </a>
 
 <a class="tile" href="personal-standard/">
   <h2>Global AI Personal Standard</h2>
-  <p>Everyday rules for using AI safely: privacy, fact-checking, respectful outputs.</p>
+  <p>Copy-paste personal AI rules. Take a quick baseline test, apply the instruction, earn your badge.</p>
 </a>
 
 <a class="tile" href="business-standards/">
   <h2>Global AI Business Standards</h2>
-  <p>Ship AI responsibly at work. Straightforward steps, approvals and proof.</p>
+  <p>Operational standard for teams: clear go/no-go gates, compliance built in, evidence you can show.</p>
 </a>
 
 <a class="tile" href="business-enterprise/">
   <h2>Global AI Business Enterprise Standard</h2>
-  <p>Audit-ready deployments: evidence packs, roles, and ongoing monitoring.</p>
+  <p>Enhanced compliance tier: audit-ready packs, audit tracking, ISO/UK readiness papers, and 20 exams included.</p>
 </a>
 
 </div>
 
 ---
 
+## How it works
+1. Pick your standard (Child, Personal, Business, Enterprise)  
+2. Run a free **baseline exam** on your AI assistant  
+3. Copy/paste the purchased instruction into your assistant  
+4. Run the **certification exam** → get your scorecard  
+5. **≥95%** earns a badge; **<95%** get a booster to improve  
+6. Scores feed our quarterly benchmarks (industry leaderboard)
+
 ## Not sure where to start?
-- Building or using AI at work? Go to **Business Standards**.
-- Need audit evidence or enterprise controls? **Business Enterprise Standard**.
-- Personal use only? **Personal Standard**.
+- Building or using AI at work? **Business Standards**.  
+- Need audit evidence or enterprise controls? **Business Enterprise Standard**.  
+- Personal use only? **Personal Standard**.  
 - Anything that might reach children? **Child Safety** first.
+
