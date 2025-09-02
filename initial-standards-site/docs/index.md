@@ -2,7 +2,7 @@
 
 **Accurate, Compliant, Safe and Politically Correct!**
 
-Pick what you need. Four clear standards, four clear paths.
+Pick the path you need. Four clear standards. No jargon.
 
 <style>
 .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin:1rem 0}
@@ -16,22 +16,22 @@ Pick what you need. Four clear standards, four clear paths.
 
 <a class="tile" href="child-safety/">
   <h2>Global AI Child Safety</h2>
-  <p>Protect kids: safe defaults, filters, reporting and escalation.</p>
+  <p>Protect children by design: safe defaults, filters, reporting and clear escalation.</p>
 </a>
 
 <a class="tile" href="personal-standard/">
   <h2>Global AI Personal Standard</h2>
-  <p>For individuals using AI: privacy basics, fact-checking, disclosure.</p>
+  <p>Everyday rules for using AI safely: privacy, fact-checking, respectful outputs.</p>
 </a>
 
 <a class="tile" href="business-standards/">
   <h2>Global AI Business Standards</h2>
-  <p>Practical rules for teams. Includes Compliance Quick-Guide + Templates.</p>
+  <p>Ship AI responsibly at work. Straightforward steps, approvals and proof.</p>
 </a>
 
 <a class="tile" href="business-enterprise/">
   <h2>Global AI Business Enterprise Standard</h2>
-  <p>Audit-ready deployments: evidence packs, roles, monitoring.</p>
+  <p>Audit-ready deployments: evidence packs, roles, and ongoing monitoring.</p>
 </a>
 
 </div>
