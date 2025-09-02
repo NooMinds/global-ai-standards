@@ -1,13 +1,16 @@
 # Global AI Child Safety
 
-Clear guardrails to protect children when AI is in the loop.
+Protect children wherever AI shows up in your product.
 
-## What this covers
-- Age-appropriate experiences
-- Content filters and reporting paths
-- Data minimisation and parental consent
+## Outcomes
+- Age-appropriate experiences by default
+- Harmful content filtered; easy reporting for users
+- Parental consent and data minimisation in place
 
-## Start here
-- Define where children may interact with your product
+## What you do (simple)
+- Identify where children might interact
 - Turn on safe defaults (filters, logging, human review)
-- Record how you handle reports and escalation
+- Set up reporting + escalation and keep an incident log
+
+**Templates:** [Incident Report](templates.md#incident-report-post-release) · [Data Sheet](templates.md#data-sheet-dataset)
+
