@@ -32,9 +32,8 @@ Ship reliable, defensible AI at work — with governed, compliant responses.
 
 ## Tools you can use now
 - **Compliance Quick-Guide** → [read it](compliance.md)
-- **Templates & Checklists** → [grab them](templates.md)
 - **Custom Instructions** → [tailored to your brand, tone, and rules](custom-instructions.md)
 - **Subject Instructions** → [domain packs (HR, finance, education, etc.)](subject-instructions.md)
 - *(Optional)* **Boosters** → lift scores if you want higher than your current result
-- **Templates & Checklists** → [grab them](templates.md)
+
 
