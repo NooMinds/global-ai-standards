@@ -35,6 +35,7 @@ Pick the path you need. Four clear standards. No jargon.
 </a>
 
 
+
 <a class="tile" href="business-enterprise/">
   <h2>Global AI Business Enterprise Standard</h2>
   <p>Enhanced compliance: audit-ready packs, tracking, ISO/UK readiness papers, 20 exams included.</p>
