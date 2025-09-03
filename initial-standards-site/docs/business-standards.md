@@ -10,7 +10,7 @@ Ship reliable, defensible AI at work — with governed, compliant responses.
 - Minimum data: don’t paste confidential info; redact sensitive data; keep only what you need
 - Respectful, inclusive language; avoid harmful or discriminatory content; standard refusal + safe alternative when needed
 - Security hygiene: never run untrusted code; treat unknown files as risky; flag phishing/credential issues to IT/Security
-- Evidence by default: record decisions, changes, and limits using the templates (model card, data sheet, risk log)
+- Evidence by default: record decisions, changes, and limits (model card, data sheet, risk log)
 
 
 ## Outcomes
