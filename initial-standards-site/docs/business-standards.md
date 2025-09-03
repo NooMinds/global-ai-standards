@@ -2,7 +2,7 @@
 
 Ship reliable, defensible AI at work — with governed, compliant responses.
 
-**Baseline → certification → badge.**
+**Baseline test → instruction → badge.**
 
 ## Compliance (at a glance)
 - Built to play nice with GDPR and widely used AI governance frameworks (EU AI Act 2025, ISO/IEC 42001, NIST AI RMF) — in plain English
