@@ -24,7 +24,7 @@ Pick the path you need. Four clear standards. No jargon.
 
 <a class="tile" href="personal-standard/">
   <h2>Global AI Personal Standard <span class="pill--price">£35</span></h2>
-  <p><strong>Baseline test → instruction → badge.</strong></p>
+  <p><strong>Baseline exam → instruction → badge.</strong></p>
   <p><em>Includes:</em> Regulatory & Ethical Priority · Core Safety Rules · Respect & Inclusivity · Refusal Language · Forward-looking safeguards.</p>
 </a>
 
