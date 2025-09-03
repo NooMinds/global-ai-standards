@@ -18,8 +18,9 @@ Pick the path you need. Four clear standards. No jargon.
 
 <a class="tile" href="child-safety/">
   <h2>Global AI Child Safety <span class="pill">Free</span></h2>
-  <p><strong>Free standard + free baseline exam.</strong> Protect children by design: safe defaults, filters, reporting and clear escalation.</p>
+  <p><strong>Free standard + free baseline exam.</strong> Protect children by design with safe defaults and content filters.</p>
 </a>
+
 
 <a class="tile" href="personal-standard/">
   <h2>Global AI Personal Standard</h2>
