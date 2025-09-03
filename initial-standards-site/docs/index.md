@@ -1,7 +1,5 @@
 # Global AI Standards
 
-**[TEST — should disappear later]**
-
 **Accurate, Compliant, Safe and Politically Correct!**  
 *Trust AI. Protect People. Prove Compliance.*
 
