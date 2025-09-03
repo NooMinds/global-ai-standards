@@ -11,7 +11,7 @@ Protect your child whenever they use AI.
 ## Start free
 - **Run the free baseline exam** (see how your assistant performs today)
 - Apply the Child Safety instruction (copy-paste)
-- Re-test to earn the Child Safety badge
+- Re-test to earn the Child Safety badge (GACS) as an auto signature for your trained AI Assistant
 
 
 
