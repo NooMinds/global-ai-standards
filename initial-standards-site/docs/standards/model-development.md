@@ -16,4 +16,4 @@
 - Ablation studies
 - Red-team scenarios library
 
-**Templates:** [Model Card](../templates.md#model-card-fill-in) · [Evaluation Run Record](../templates.md#evaluation-run-record)
+
