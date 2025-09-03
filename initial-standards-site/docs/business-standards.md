@@ -14,7 +14,7 @@ Ship reliable, defensible AI at work — with governed, compliant responses.
 
 
 ## Outcomes
-- Clear go/no-go gates before release
+- Clear checkpoints before release
 - Evidence you can show (scorecards, artifacts)
 - Fewer incidents post-launch (rollback + monitoring)
 
