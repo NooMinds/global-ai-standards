@@ -23,6 +23,7 @@ Pick the path you need. Four clear standards. No jargon.
 </a>
 
 
+
 <a class="tile" href="personal-standard/">
   <h2>Global AI Personal Standard</h2>
   <p>Copy-paste personal AI rules. Baseline test → apply instruction → earn your badge.</p>
