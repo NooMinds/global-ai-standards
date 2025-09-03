@@ -1,20 +1,34 @@
 # Global AI Business Standards
 
-Get reliable, defensible AI into production — fast.
+Ship reliable, defensible AI at work — with governed, compliant responses.
 
-## Who this is for
-Product, data and compliance teams delivering AI inside a business.
+**Baseline → certification → badge.**
+
+## Compliance (at a glance)
+- Built to play nice with GDPR and widely used AI governance frameworks (EU AI Act 2025, ISO/IEC 42001, NIST AI RMF) — in plain English
+- No personal medical, legal, or financial advice; education-only responses with signposts to regulated professionals
+- Minimum data: don’t paste confidential info; redact sensitive data; keep only what you need
+- Respectful, inclusive language; avoid harmful or discriminatory content; standard refusal + safe alternative when needed
+- Security hygiene: never run untrusted code; treat unknown files as risky; flag phishing/credential issues to IT/Security
+- Evidence by default: record decisions, changes, and limits using the templates (model card, data sheet, risk log)
+
 
 ## Outcomes
 - Clear go/no-go gates before release
-- Documented evidence for reviews and audits
-- Fewer surprises post-launch (rollback + monitoring)
+- Evidence you can show (scorecards, artifacts)
+- Fewer incidents post-launch (rollback + monitoring)
 
 ## What you do (simple)
-1. Define the problem and success criteria
-2. Map your data (source, rights, retention)
-3. Run an evaluation and record results
-4. Prepare a rollback plan and monitoring
+1. Run the **free baseline exam** on your AI assistant.
+2. Purchase and copy-paste the **GABS instruction** (£99).
+3. Run the **certification exam** to get your scorecard.
+4. **≥95% earns a badge.**
+5. Want a higher score (including if you’re under 95%)? Add a **Booster** and re-test — optional, tuned to your model’s typical mistakes.
+
+---
+
+*Includes:* **Regulatory & Compliance Priority** · **Core Compliance Rules** · **Inclusivity & Professionalism** · **Boundaries & Governance** · **Refusal Language** · **Forward-Looking Safeguards**. :contentReference[oaicite:6]{index=6}
+
 
 ## Tools you can use now
 - **Compliance Quick-Guide** → [read it](compliance.md)
