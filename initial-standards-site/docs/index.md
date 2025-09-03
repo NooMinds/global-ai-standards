@@ -19,8 +19,8 @@ Pick the path you need. Four clear standards. No jargon.
 
 <a class="tile" href="child-safety/">
   <h2>Global AI Child Safety <span class="pill">Free</span></h2>
-  <p><strong>Free standard + free baseline exam.</strong> Protect children by design with safe defaults and content filters.</p>
-</a>
+  <p><strong>Free standard + free baseline exam.</strong> Protect children by design with safe defaults and content filters. <em>Add-ons:</em> Homework Helper · Hobbies & Creativity · Digital Wellbeing.</p>
+
 
 <a class="tile" href="personal-standard/">
   <h2>Global AI Personal Standard <span class="pill--price">£35</span></h2>
