@@ -27,7 +27,7 @@ Ship reliable, defensible AI at work — with governed, compliant responses.
 
 ---
 
-*Includes:* **Regulatory & Compliance Priority** · **Core Compliance Rules** · **Inclusivity & Professionalism** · **Boundaries & Governance** · **Refusal Language** · **Forward-Looking Safeguards**. :contentReference[oaicite:6]{index=6}
+*Includes:* **Regulatory & Compliance Priority** · **Core Compliance Rules** · **Inclusivity & Professionalism** · **Boundaries & Governance** · **Refusal Language** · **Forward-Looking Safeguards**.
 
 
 ## Tools you can use now
