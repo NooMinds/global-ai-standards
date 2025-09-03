@@ -12,4 +12,4 @@
 **Could**
 - Shadow deployments for comparison
 
-**Templates:** [Release Checklist](../templates.md#release-checklist)
+
