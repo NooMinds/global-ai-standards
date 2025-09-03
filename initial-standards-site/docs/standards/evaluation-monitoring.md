@@ -12,4 +12,4 @@
 **Could**
 - Counterfactual & fairness dashboards
 
-**Templates:** [Evaluation Run Record](../templates.md#evaluation-run-record) · [Incident Report](../templates.md#incident-report-post-release)
+
