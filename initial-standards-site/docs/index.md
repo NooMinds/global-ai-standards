@@ -30,7 +30,7 @@ Pick the path you need. Four clear standards. No jargon.
 
 
 <a class="tile" href="business-standards/">
-  <h2>Global AI Business Standards</h2>
+  <h2>Global AI Business Standards <span class="pill--price">£99</span></h2>
   <p>Operational standard for teams: go/no-go gates, compliance built in, evidence you can show.</p>
 </a>
 
