@@ -22,12 +22,11 @@ Pick the path you need. Four clear standards. No jargon.
   <p><strong>Free standard + free baseline exam.</strong> Protect children by design with safe defaults and content filters.</p>
 </a>
 
-
-
 <a class="tile" href="personal-standard/">
-  <h2>Global AI Personal Standard</h2>
-  <p>Copy-paste personal AI rules. Baseline test → apply instruction → earn your badge.</p>
+  <h2>Global AI Personal Standard <span class="pill--price">£35</span></h2>
+  <p><strong>Baseline test → instruction → badge.</strong> Use AI safely: privacy first, limited and safe personal med/legal/financial advice, respectful language, inclusive tone, clear refusals.</p>
 </a>
+
 
 <a class="tile" href="business-standards/">
   <h2>Global AI Business Standards</h2>
