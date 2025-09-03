@@ -5,6 +5,19 @@
 
 Pick the path you need. Four clear standards. No jargon.
 
+.pill--price{
+  display:inline-block;
+  margin-left:.5rem;
+  padding:2px 6px;
+  font-size:.7rem;
+  font-weight:700;
+  color:#fff;
+  background:#3b82f6; /* blue price pill */
+  border-radius:999px;
+  text-transform:uppercase;
+  letter-spacing:.02em;
+}
+
 <style>
 .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin:1rem 0}
 .tile{display:block;border:1px solid #e5e7eb;border-radius:14px;padding:18px;background:#fff;text-decoration:none;color:inherit;box-shadow:0 1px 3px rgba(0,0,0,.06)}
