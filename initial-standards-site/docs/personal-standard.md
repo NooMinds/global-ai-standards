@@ -2,7 +2,7 @@
 
 Use your AI assistant safely as an individual and get governed, ethical responses.
 
-**Baseline test → instruction → badge.**
+**Baseline exam → instruction → badge.**
 
 ## AI Safety (at a glance)
 - Privacy first; don’t paste sensitive information
