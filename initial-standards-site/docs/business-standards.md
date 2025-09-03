@@ -30,10 +30,11 @@ Ship reliable, defensible AI at work — with governed, compliant responses.
 *Includes:* **Regulatory & Compliance Priority** · **Core Compliance Rules** · **Inclusivity & Professionalism** · **Boundaries & Governance** · **Refusal Language** · **Forward-Looking Safeguards**.
 
 
-## Tools you can use now
-- **Compliance Quick-Guide** → [read it](compliance.md)
-- **Custom Instructions** → [tailored to your brand, tone, and rules](custom-instructions.md)
-- **Subject Instructions** → [domain packs (HR, finance, education, etc.)](subject-instructions.md)
-- *(Optional)* **Boosters** → lift scores if you want higher than your current result
+## Advance your GABS instruction with
+- **Compliance Quick-Guide** → [read it](compliance.md): map your use case to EU AI Act (2025), ISO/IEC 42001, and NIST AI RMF in plain English
+- **Custom Instructions** → [tailored to your brand, tone, and rules](custom-instructions.md): bespoke guidance plus a quick baseline vs post-instruction check
+- **Subject Instructions** → [domain packs (HR, finance, education, etc.)](subject-instructions.md): expert-tuned add-ons with example tasks and checks
+- *(Optional)* **Boosters**: lift scores beyond your current result without changing workflows
+
 
 
