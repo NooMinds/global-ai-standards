@@ -28,6 +28,10 @@ Use your AI assistant safely as an individual and get governed, ethical response
 
 *Includes:* **Regulatory & Ethical Priority** · **Core Safety Rules** · **Respect & Inclusivity** · **Refusal Language** · **Forward-looking safeguards**
 
+## Tools you can use now
+- **Subject Instructions** → [domain packs (HR, finance, education, etc.)](subject-instructions.md)
+- **Custom Instructions** → [one-off tailored guidance if you want a specific tone/ruleset](custom-instructions.md)
+- *(Optional)* **Boosters** → lift scores if you want higher than your current result
 
 
 
