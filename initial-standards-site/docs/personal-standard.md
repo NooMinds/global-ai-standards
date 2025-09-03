@@ -21,8 +21,7 @@ Use your AI assistant safely as an individual and get governed, ethical response
 2. Purchase and copy-paste the **GAPS instruction** (£35).
 3. Run the **certification exam** to get your scorecard.
 4. **≥95% earns a badge.**
-5. Want a higher score (including if you’re under 95%)? Add a **Booster** and re-test — optional, tuned to your model’s typical mistakes.
-
+5. Want a higher score (including if you’re under 95%)? Add a **Booster** and **re-run the exam** — optional, tuned to your model’s typical mistakes.
 
 ---
 
