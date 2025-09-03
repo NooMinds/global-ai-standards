@@ -31,8 +31,9 @@ Pick the path you need. Four clear standards. No jargon.
 
 <a class="tile" href="business-standards/">
   <h2>Global AI Business Standards <span class="pill--price">£99</span></h2>
-  <p>Operational standard for teams: go/no-go gates, compliance built in, evidence you can show.</p>
+  <p><strong>Baseline test → instruction → badge.</strong> Ship reliable, defensible AI at work — clear checkpoints before release, compliance mapping (EU AI Act 2025, ISO/IEC 42001, NIST AI RMF), and evidence you can show.</p>
 </a>
+
 
 <a class="tile" href="business-enterprise/">
   <h2>Global AI Business Enterprise Standard</h2>
