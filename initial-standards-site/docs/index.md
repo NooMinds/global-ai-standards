@@ -104,12 +104,4 @@ Pick the path you need. Four clear standards. No jargon.
 
 ---
 
-## How it works
-1. Pick your standard (Child, Personal, Business, Enterprise)  
-2. Run a free **baseline exam** on your AI assistant  
-3. Copy/paste the purchased instruction into your assistant  
-4. Run the **certification exam** → get your scorecard  
-5. **≥95%** earns a badge; **<95%** get a booster to improve  
-6. Scores feed our quarterly benchmarks (industry leaderboard)
-
 
