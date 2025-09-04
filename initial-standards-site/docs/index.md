@@ -45,7 +45,14 @@ Pick the path you need. Four clear standards.
 .btn--green{background:#059669;color:#fff}   /* Child Safety */
 .btn--indigo{background:#4f46e5;color:#fff}  /* Personal */
 .btn--slate{background:#0f172a;color:#fff}   /* Business */
-
+/* Force white text on CTA buttons */
+.btn,
+.btn:visited,
+.btn:hover,
+.btn:focus,
+.btn:active {
+  color: #fff !important;
+}
 </style>
 
 <!-- Explainer: What / Why / How -->
