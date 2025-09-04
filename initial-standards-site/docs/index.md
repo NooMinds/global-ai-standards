@@ -84,6 +84,11 @@ Pick the path you need. Four clear standards.
 
 /* Wrapper so each tile and its CTA stay together in the grid */
 .tile-wrap{display:block}
+/* Make product tiles equal height and keep their CTA aligned */
+.tile-wrap{display:flex; flex-direction:column; height:100%}
+.tile{display:flex; flex-direction:column; flex:1 1 auto; min-height:230px}
+.tile p{margin-top:.25rem}
+.tile p:last-child{margin-bottom:0}
 
 </style>
 
