@@ -26,6 +26,19 @@ Pick the path you need. Four clear standards.
   background:#f8fafc;      /* light slate */
   border-color:#dbeafe;     /* light indigo */
 }
+  .pill--price{
+  display:inline-block;
+  margin-left:.5rem;
+  padding:2px 6px;
+  font-size:.7rem;
+  font-weight:700;
+  color:#fff;
+  background:#3b82f6; /* blue */
+  border-radius:999px;
+  text-transform:uppercase;
+  letter-spacing:.02em;
+}
+
 </style>
 
 <!-- Explainer: What / Why / How -->
@@ -74,31 +87,31 @@ Pick the path you need. Four clear standards.
   </div>
 </section>
 
-
 <div class="tiles">
 
-<a class="tile" href="child-safety/">
-  <h2>Global AI Child Safety <span class="pill">Free</span></h2>
-  <p><strong>Baseline exam → instruction → badge.</strong> Protect children by design with safe defaults and content filters. <em>Add-ons:</em> Homework Helper · Hobbies & Creativity · Digital Wellbeing.</p>
+  <a class="tile" href="child-safety/">
+    <h2>Global AI Child Safety <span class="pill">Free</span></h2>
+    <p><strong>Baseline exam → instruction → badge.</strong> Protect children by design with safe defaults and content filters. <em>Add-ons:</em> Homework Helper · Hobbies & Creativity · Digital Wellbeing.</p>
+  </a>
 
+  <a class="tile" href="personal-standard/">
+    <h2>Global AI Personal Standard <span class="pill--price">£35</span></h2>
+    <p><strong>Baseline exam → instruction → badge.</strong></p>
+    <p><em>Includes:</em> Regulatory & Ethical Priority · Core Safety Rules · Respect & Inclusivity · Refusal Language · Forward-looking safeguards.</p>
+  </a>
 
-<a class="tile" href="personal-standard/">
-  <h2>Global AI Personal Standard <span class="pill--price">£35</span></h2>
-  <p><strong>Baseline exam → instruction → badge.</strong></p>
-  <p><em>Includes:</em> Regulatory & Ethical Priority · Core Safety Rules · Respect & Inclusivity · Refusal Language · Forward-looking safeguards.</p>
-</a>
+  <a class="tile" href="business-standards/">
+    <h2>Global AI Business Standards <span class="pill--price">£99</span></h2>
+    <p><strong>Baseline exam → instruction → badge.</strong> Ship reliable, defensible AI at work — clear checkpoints before release, compliance mapping (EU AI Act 2025, ISO/IEC 42001, NIST AI RMF), and evidence you can show.</p>
+  </a>
 
+  <a class="tile" href="business-enterprise/">
+    <h2>Global AI Business Enterprise Standard <span class="pill--price">£500</span></h2>
+    <p><strong>Baseline exam → instruction → badge.</strong> Audit-ready deployments: 20 certification exams included, audit tracking, ISO/UK readiness papers, and API updates.</p>
+  </a>
 
-<a class="tile" href="business-standards/">
-  <h2>Global AI Business Standards <span class="pill--price">£99</span></h2>
-  <p><strong>Baseline exam → instruction → badge.</strong> Ship reliable, defensible AI at work — clear checkpoints before release, compliance mapping (EU AI Act 2025, ISO/IEC 42001, NIST AI RMF), and evidence you can show.</p>
-
-
-
-
-<a class="tile" href="business-enterprise/">
-  <h2>Global AI Business Enterprise Standard</h2>
-<p><strong>Baseline exam → instruction → badge.</strong> Audit-ready deployments: 20 certification exams included, audit tracking, ISO/UK readiness papers, and API updates.</p>
 </div>
+
+
 
 
