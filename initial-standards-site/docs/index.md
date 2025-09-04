@@ -3,7 +3,7 @@
 **Accurate, Compliant, Safe and Politically Correct!**  
 *Trust AI. Protect People. Prove Compliance.*
 
-Pick the path you need. Four clear standards. No jargon.
+Pick the path you need. Four clear standards.
 
 
 <style>
@@ -26,7 +26,6 @@ Pick the path you need. Four clear standards. No jargon.
   background:#f8fafc;      /* light slate */
   border-color:#dbeafe;     /* light indigo */
 }
-
 </style>
 
 <!-- Explainer: What / Why / How -->
@@ -101,7 +100,5 @@ Pick the path you need. Four clear standards. No jargon.
   <h2>Global AI Business Enterprise Standard</h2>
 <p><strong>Baseline exam → instruction → badge.</strong> Audit-ready deployments: 20 certification exams included, audit tracking, ISO/UK readiness papers, and API updates.</p>
 </div>
-
----
 
 
