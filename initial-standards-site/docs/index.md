@@ -65,6 +65,25 @@ Pick the path you need. Four clear standards.
 .cta-card--indigo{background:#4f46e5}  /* GAPS */
 .cta-card--slate{background:#0f172a}   /* GABS */
 .cta-card--amber{background:#d97706}   /* Enterprise */
+/* CTA tiles that sit under each product tile */
+.cta-card{
+  display:block;text-align:center;font-weight:700;
+  padding:12px;border-radius:14px;text-decoration:none;
+  box-shadow:0 1px 3px rgba(0,0,0,.08); margin-top:.6rem
+}
+.cta-card:hover{filter:brightness(1.05)}
+.cta-card--green{background:#059669}   /* GACS */
+.cta-card--indigo{background:#4f46e5}  /* GAPS */
+.cta-card--slate{background:#0f172a}   /* GABS */
+.cta-card--amber{background:#d97706}   /* Enterprise */
+
+/* Force white text on CTA tiles (theme override safe) */
+.cta-card, .cta-card:visited, .cta-card:hover, .cta-card:focus, .cta-card:active {
+  color:#fff !important;
+}
+
+/* Wrapper so each tile and its CTA stay together in the grid */
+.tile-wrap{display:block}
 
 </style>
 
@@ -139,12 +158,41 @@ Pick the path you need. Four clear standards.
 </a>
 
 </div>
-<div class="cta-grid">
-  <a href="child-safety/" class="cta-card cta-card--green">Try Child Safety (Free)</a>
-  <a href="personal-standard/" class="cta-card cta-card--indigo">Get Personal (£35)</a>
-  <a href="business-standards/" class="cta-card cta-card--slate">For Business (£99)</a>
-  <a href="business-enterprise/" class="cta-card cta-card--amber">Enterprise (£499)</a>
-</div>
+<div class="tiles">
+
+  <div class="tile-wrap">
+    <a class="tile" href="child-safety/">
+      <h2>Global AI Child Safety <span class="pill">Free</span></h2>
+      <p><strong>Baseline exam → instruction → badge.</strong> Protect children by design with safe defaults and content filters. <em>Add-ons:</em> Homework Helper · Hobbies & Creativity · Digital Wellbeing.</p>
+    </a>
+    <a href="child-safety/" class="cta-card cta-card--green">Try Child Safety (Free)</a>
+  </div>
+
+  <div class="tile-wrap">
+    <a class="tile" href="personal-standard/">
+      <h2>Global AI Personal Standard <span class="pill--price">£35</span></h2>
+      <p><strong>Baseline exam → instruction → badge.</strong></p>
+      <p><em>Includes:</em> Regulatory & Ethical Priority · Core Safety Rules · Respect & Inclusivity · Refusal Language · Forward-looking safeguards.</p>
+    </a>
+    <a href="personal-standard/" class="cta-card cta-card--indigo">Get Personal (£35)</a>
+  </div>
+
+  <div class="tile-wrap">
+    <a class="tile" href="business-standards/">
+      <h2>Global AI Business Standards <span class="pill--price">£99</span></h2>
+      <p><strong>Baseline exam → instruction → badge.</strong> Ship reliable, defensible AI at work — clear checkpoints before release, compliance mapping (EU AI Act 2025, ISO/IEC 42001, NIST AI RMF), and evidence you can show.</p>
+    </a>
+    <a href="business-standards/" class="cta-card cta-card--slate">For Business (£99)</a>
+  </div>
+  <div class="tile-wrap">
+    <a class="tile" href="business-enterprise/">
+      <h2>Global AI Business Enterprise Standard <span class="pill--price">£499</span></h2>
+      <p><strong>Baseline exam → instruction → badge.</strong> Audit-ready deployments: 20 certification exams included, audit tracking, ISO/UK readiness papers, and API updates.</p>
+    </a>
+    <a href="business-enterprise/" class="cta-card cta-card--amber">Enterprise (£500)</a>
+  </div>
+
+
 
 
 
