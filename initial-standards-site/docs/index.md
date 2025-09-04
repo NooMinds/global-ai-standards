@@ -21,6 +21,12 @@ Pick the path you need. Four clear standards. No jargon.
 .card-head{display:flex;align-items:center;gap:.5rem}
 .pill-icon{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:999px;background:#f1f5f9;color:#334155;font-weight:700}
 .tight{margin:.5rem 0 0 0}
+/* Softer background for the 3 explainer cards only */
+.explainer .card{
+  background:#f8fafc;      /* light slate */
+  border-color:#dbeafe;     /* light indigo */
+}
+
 </style>
 
 <!-- Explainer: What / Why / How -->
