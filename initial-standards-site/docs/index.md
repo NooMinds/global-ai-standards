@@ -120,7 +120,7 @@ Pick the path you need. Four clear standards.
   </a>
 
 <a class="tile" href="business-enterprise/">
-  <h2>Global AI Business Enterprise Standard <span class="pill--price">£500</span></h2>
+  <h2>Global AI Business Enterprise Standard <span class="pill--price">£499</span></h2>
   <p><strong>Baseline exam → instruction → badge.</strong> Audit-ready for SMEs: annual verification, live standards updates via API, and audit logging you can show.</p>
   <p><em>Includes:</em> Verification & expiry · Regulatory alignment · Response governance · Exam & scoring · API & audit integration.</p>
 </a>
