@@ -133,31 +133,7 @@ Pick the path you need. Four clear standards.
   </div>
 </section>
 
-<div class="tiles">
 
-  <a class="tile" href="child-safety/">
-    <h2>Global AI Child Safety <span class="pill">Free</span></h2>
-    <p><strong>Baseline exam → instruction → badge.</strong> Protect children by design with safe defaults and content filters. <em>Add-ons:</em> Homework Helper · Hobbies & Creativity · Digital Wellbeing.</p>
-  </a>
-
-  <a class="tile" href="personal-standard/">
-    <h2>Global AI Personal Standard <span class="pill--price">£35</span></h2>
-    <p><strong>Baseline exam → instruction → badge.</strong></p>
-    <p><em>Includes:</em> Regulatory & Ethical Priority · Core Safety Rules · Respect & Inclusivity · Refusal Language · Forward-looking safeguards.</p>
-  </a>
-
-  <a class="tile" href="business-standards/">
-    <h2>Global AI Business Standards <span class="pill--price">£99</span></h2>
-    <p><strong>Baseline exam → instruction → badge.</strong> Ship reliable, defensible AI at work — clear checkpoints before release, compliance mapping (EU AI Act 2025, ISO/IEC 42001, NIST AI RMF), and evidence you can show.</p>
-  </a>
-
-<a class="tile" href="business-enterprise/">
-  <h2>Global AI Business Enterprise Standard <span class="pill--price">£499</span></h2>
-  <p><strong>Baseline exam → instruction → badge.</strong> Audit-ready for SMEs: annual verification, live standards updates via API, and audit logging you can show.</p>
-  <p><em>Includes:</em> Verification & expiry · Regulatory alignment · Response governance · Exam & scoring · API & audit integration.</p>
-</a>
-
-</div>
 <div class="tiles">
 
   <div class="tile-wrap">
@@ -189,12 +165,8 @@ Pick the path you need. Four clear standards.
       <h2>Global AI Business Enterprise Standard <span class="pill--price">£499</span></h2>
       <p><strong>Baseline exam → instruction → badge.</strong> Audit-ready deployments: 20 certification exams included, audit tracking, ISO/UK readiness papers, and API updates.</p>
     </a>
-    <a href="business-enterprise/" class="cta-card cta-card--amber">Enterprise (£500)</a>
+    <a href="business-enterprise/" class="cta-card cta-card--amber">Enterprise (£499)</a>
   </div>
-
-
-
-
 
 
 
