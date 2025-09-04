@@ -13,7 +13,62 @@ Pick the path you need. Four clear standards. No jargon.
 .tile h2{margin:0 0 .25rem 0;font-size:1.1rem}
 .tile p{margin:.25rem 0 0 0;color:#4b5563}
 .pill{display:inline-block;margin-left:.5rem;padding:2px 6px;font-size:.7rem;font-weight:700;color:#fff;background:#10b981;border-radius:999px;text-transform:uppercase;letter-spacing:.02em}
+  .explainer{margin-top:1.5rem}
+.explainer h2{font-size:1.35rem;margin:0 0 .5rem 0}
+.explainer-grid{display:grid;gap:1rem}
+@media (min-width:768px){.explainer-grid{grid-template-columns:repeat(3,1fr)}}
+.card{border:1px solid #e5e7eb;border-radius:14px;background:#fff;padding:16px;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+.card-head{display:flex;align-items:center;gap:.5rem}
+.pill-icon{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:999px;background:#f1f5f9;color:#334155;font-weight:700}
+.tight{margin:.5rem 0 0 0}
 </style>
+
+<!-- Explainer: What / Why / How -->
+<section aria-labelledby="gas-explainer" class="explainer">
+  <h2 id="gas-explainer">What is Global AI Standards — and why it matters</h2>
+
+  <div class="explainer-grid">
+    <!-- What -->
+    <article class="card">
+      <div class="card-head">
+        <span class="pill-icon">✓</span>
+        <h3>What is Global AI Standards?</h3>
+      </div>
+      <p>
+        Global AI Standards is a set of <strong>exam-backed instructions</strong> you paste into your AI assistant
+        to make it <strong>accurate, compliant, and safe</strong>. Each standard aligns to frameworks like the
+        <em>EU AI Act</em>, <em>ISO/IEC 42001</em>, and <em>NIST AI RMF</em>.
+      </p>
+    </article>
+
+    <!-- Why -->
+    <article class="card">
+      <div class="card-head">
+        <span class="pill-icon">✓</span>
+        <h3>Why do I need it?</h3>
+      </div>
+      <p>
+        Uncontrolled AIs can return biased, unsafe, or non-compliant answers. Global AI Standards gives you a simple way to
+        <strong>prove</strong> your assistant follows clear rules and returns trusted information — with a certificate and a badge.
+      </p>
+    </article>
+
+    <!-- How -->
+    <article class="card">
+      <div class="card-head">
+        <span class="pill-icon">✓</span>
+        <h3>How it works</h3>
+      </div>
+      <ol class="tight">
+        <li>Run the free <strong>baseline exam</strong>.</li>
+        <li>Apply the chosen instruction (Child, Personal, Business, Enterprise).</li>
+        <li>Re-run the exam — score <strong>≥95%</strong> to earn your badge.</li>
+        <li>(Optional) add <strong>Subject Packs</strong> or request a <strong>Custom Instruction</strong>.</li>
+      </ol>
+    </article>
+  </div>
+</section>
+
 
 <div class="tiles">
 
