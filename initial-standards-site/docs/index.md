@@ -53,6 +53,19 @@ Pick the path you need. Four clear standards.
 .btn:active {
   color: #fff !important;
 }
+  /* CTA tiles under the product tiles */
+.cta-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin-top:.75rem}
+.cta-card{
+  display:block;text-align:center;font-weight:700;
+  padding:12px;border-radius:14px;color:#fff;text-decoration:none;
+  box-shadow:0 1px 3px rgba(0,0,0,.08)
+}
+.cta-card:hover{filter:brightness(1.05)}
+.cta-card--green{background:#059669}   /* GACS */
+.cta-card--indigo{background:#4f46e5}  /* GAPS */
+.cta-card--slate{background:#0f172a}   /* GABS */
+.cta-card--amber{background:#d97706}   /* Enterprise */
+
 </style>
 
 <!-- Explainer: What / Why / How -->
@@ -126,11 +139,13 @@ Pick the path you need. Four clear standards.
 </a>
 
 </div>
-<div class="cta-row">
-  <a href="child-safety/" class="btn btn--green">Try Child Safety (Free)</a>
-  <a href="personal-standard/" class="btn btn--indigo">Get Personal (£35)</a>
-  <a href="business-standards/" class="btn btn--slate">For Business (£99)</a>
+<div class="cta-grid">
+  <a href="child-safety/" class="cta-card cta-card--green">Try Child Safety (Free)</a>
+  <a href="personal-standard/" class="cta-card cta-card--indigo">Get Personal (£35)</a>
+  <a href="business-standards/" class="cta-card cta-card--slate">For Business (£99)</a>
+  <a href="business-enterprise/" class="cta-card cta-card--amber">Enterprise (£499)</a>
 </div>
+
 
 
 
