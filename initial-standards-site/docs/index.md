@@ -38,6 +38,13 @@ Pick the path you need. Four clear standards.
   text-transform:uppercase;
   letter-spacing:.02em;
 }
+/* CTA buttons under the tiles */
+.cta-row{margin-top:1rem;display:flex;flex-wrap:wrap;gap:.6rem}
+.btn{display:inline-block;padding:10px 14px;border-radius:12px;text-decoration:none;font-weight:600;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+.btn:hover{filter:brightness(1.05)}
+.btn--green{background:#059669;color:#fff}   /* Child Safety */
+.btn--indigo{background:#4f46e5;color:#fff}  /* Personal */
+.btn--slate{background:#0f172a;color:#fff}   /* Business */
 
 </style>
 
@@ -110,6 +117,11 @@ Pick the path you need. Four clear standards.
     <p><strong>Baseline exam → instruction → badge.</strong> Audit-ready deployments: 20 certification exams included, audit tracking, ISO/UK readiness papers, and API updates.</p>
   </a>
 
+</div>
+<div class="cta-row">
+  <a href="child-safety/" class="btn btn--green">Try Child Safety (Free)</a>
+  <a href="personal-standard/" class="btn btn--indigo">Get Personal (£35)</a>
+  <a href="business-standards/" class="btn btn--slate">For Business (£99)</a>
 </div>
 
 
