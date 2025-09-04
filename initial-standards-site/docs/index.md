@@ -119,10 +119,11 @@ Pick the path you need. Four clear standards.
     <p><strong>Baseline exam → instruction → badge.</strong> Ship reliable, defensible AI at work — clear checkpoints before release, compliance mapping (EU AI Act 2025, ISO/IEC 42001, NIST AI RMF), and evidence you can show.</p>
   </a>
 
-  <a class="tile" href="business-enterprise/">
-    <h2>Global AI Business Enterprise Standard <span class="pill--price">£500</span></h2>
-    <p><strong>Baseline exam → instruction → badge.</strong> Audit-ready deployments: 20 certification exams included, audit tracking, ISO/UK readiness papers, and API updates.</p>
-  </a>
+<a class="tile" href="business-enterprise/">
+  <h2>Global AI Business Enterprise Standard <span class="pill--price">£500</span></h2>
+  <p><strong>Baseline exam → instruction → badge.</strong> Audit-ready for SMEs: annual verification, live standards updates via API, and audit logging you can show.</p>
+  <p><em>Includes:</em> Verification & expiry · Regulatory alignment · Response governance · Exam & scoring · API & audit integration.</p>
+</a>
 
 </div>
 <div class="cta-row">
