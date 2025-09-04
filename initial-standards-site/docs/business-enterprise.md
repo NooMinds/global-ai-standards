@@ -35,8 +35,8 @@ SMEs deploying AI where proof matters (regulated workflows, higher-risk use, ext
 ## Automation pipeline
 - Randomised exam generator and sandboxed delivery.
 - Auto-scoring engine with critical-fail triggers.
-- **Scorecard** output (compliance %, knowledge %, pass/fail, metadata).
-
+- **Scorecard** output (compliance %, pass/fail, metadata).
+  
 ## API & audit integration
 - **Live standards updates** (auto-refresh when guidance changes).
 - **Audit logging**: submit exam results + model/version to your audit record.
