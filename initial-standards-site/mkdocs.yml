@@ -14,12 +14,11 @@ nav:
       - Custom Instructions: custom-instructions.md
       - Subject Instructions: subject-instructions.md
   - Global AI Business Enterprise Standard: business-enterprise.md
-  - Reference (optional):
-      - Standards Overview: standards.md
-      - Model Development: standards/model-development.md
-      - Data Governance: standards/data-governance.md
-      - "MLOps & Release": standards/mlops-release.md
-      - Evaluation & Monitoring: standards/evaluation-monitoring.md
+  - Reference:
+      - Reference Home: standards.md
+      - What we did: standards/what-we-did.md
+      - What you can do: standards/what-you-can-do.md
+
 
 theme:
   name: material
