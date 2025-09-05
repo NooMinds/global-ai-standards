@@ -52,6 +52,24 @@ theme:
     - search.suggest
     - search.highlight
     - toc.integrate
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: indigo      # nav + accents
+      accent: emerald      # buttons/pills
+  features:
+    - navigation.expand
+    - navigation.sections
+    - content.action.edit
+    - content.action.view
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+
+extra_css:
+  - styles/overrides.css
 
 
 plugins:
