@@ -12,20 +12,19 @@ nav:
 
   - Global AI Personal Standard:
       - Overview: personal-standard.md
-      - Subject Instructions: subject-instructions.md
-      - Custom Instructions: custom-instructions.md
 
   - Global AI Business Standards:
       - Business Standards Overview: business-standards.md
       - Compliance Quick-Guide: compliance.md
-      - Subject Instructions: subject-instructions.md
-      - Custom Instructions: custom-instructions.md
 
   - Global AI Business Enterprise:
       - Overview: business-enterprise.md
+      - Custom Instructions: custom-instructions.md
+      - Subject Instructions: subject-instructions.md
 
   - What we did at AI Global Standards: standards/what-we-did.md
   - What you can do with AI Global Standards: standards/what-you-can-do.md
+
 
 
 theme:
