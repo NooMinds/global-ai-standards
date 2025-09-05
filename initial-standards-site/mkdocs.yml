@@ -13,7 +13,7 @@ nav:
       - Compliance Quick-Guide: compliance.md
       - Custom Instructions: custom-instructions.md
       - Subject Instructions: subject-instructions.md
-  - Global AI Business Enterprise Standard: business-enterprise.md
+      - Enterprise Standard: business-enterprise.md
   - Reference:
       - Reference Home: standards.md
       - What we did: standards/what-we-did.md
