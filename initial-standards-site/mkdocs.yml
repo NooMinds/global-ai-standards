@@ -31,6 +31,17 @@ theme:
     - search.suggest
     - search.highlight
     - toc.integrate
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.expand      # open all sections by default
+    - navigation.sections    # show section headings as groups
+    - content.action.edit
+    - content.action.view
+    - search.suggest
+    - search.highlight
+    - toc.integrate
 
 
 plugins:
