@@ -21,9 +21,9 @@ nav:
       - Overview: business-enterprise.md
       - Compliance Quick-Guide: compliance.md
       
-  - Custom Instructions: custom-instructions.md
-  
-  - Subject Instructions: subject-instructions.md
+  - Global AI Custom Instructions: custom-instructions.md
+  - Global AI Subject Instruction Packs: subject-instructions.md
+
   
 
   - What we did at AI Global Standards: standards/what-we-did.md
