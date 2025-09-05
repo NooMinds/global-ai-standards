@@ -1,0 +1,45 @@
+/* ---------- Content headings ---------- */
+.md-typeset h1{
+  color:#0f172a;            /* slate-900 */
+  font-weight:800;
+  line-height:1.15;
+  font-size:1.85rem;
+}
+@media (min-width:768px){
+  .md-typeset h1{font-size:2.15rem;}
+}
+
+.md-typeset h2{
+  color:#4f46e5;            /* indigo-600 */
+  font-weight:800;
+  margin-top:1.4rem;
+  padding-bottom:.15rem;
+  border-bottom:2px solid #e5e7eb; /* subtle underline */
+}
+
+.md-typeset h3{
+  color:#0ea5e9;            /* sky-500 */
+  font-weight:700;
+}
+
+/* Space headings from previous content a bit more */
+.md-typeset h2, .md-typeset h3{scroll-margin-top: 80px}
+
+/* ---------- Sidebar (left nav) ---------- */
+/* Section headings (e.g., "Global AI Business Standards") */
+.md-nav__item--section > label.md-nav__link{
+  color:#0f172a;            /* slate-900 */
+  font-weight:800;
+  font-size:.98rem;
+}
+
+/* Child links */
+.md-nav__item .md-nav__link{
+  color:#334155;            /* slate-700 */
+  font-weight:600;
+}
+.md-nav__item .md-nav__link:hover{ color:#111827; }  /* slate-900 */
+.md-nav__link--active{ color:#4f46e5; font-weight:800; } /* indigo active */
+
+/* Slightly more breathing room between groups */
+.md-sidebar__scrollwrap .md-nav{ padding-top:.25rem; }
