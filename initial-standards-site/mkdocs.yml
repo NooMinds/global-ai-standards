@@ -14,8 +14,8 @@ nav:
       - Custom Instructions: custom-instructions.md
       - Subject Instructions: subject-instructions.md
       - Enterprise Standard: business-enterprise.md
-  - What we did at AI Global Standards: standards/what-we-did.md
-  - What you can do with AI Global Standards: standards/what-you-can-do.md
+  - What we did at Global AI Standards: standards/what-we-did.md
+  - What you can do with Global AI Standards: standards/what-you-can-do.md
 
 theme:
   name: material
