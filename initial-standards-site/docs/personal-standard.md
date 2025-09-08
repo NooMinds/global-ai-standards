@@ -29,7 +29,7 @@ Use your AI assistant safely as an individual and get governed, ethical response
 
 ## Advance your GAPS instruction with
 - **Subject Instructions** — domain packs for personal use (education, finance literacy, sports nutrition): expert-tuned add-ons with example tasks and checks
-- **Custom Instructions** — one-off tailored guidance to match your tone and boundaries
+- **Global AI Custom Consultation** — one-off, bespoke instruction that isn’t reused for others](custom-instructions.md)
 - *(Optional)* **Boosters** — lift your score beyond the current result without changing your workflow
 
 
