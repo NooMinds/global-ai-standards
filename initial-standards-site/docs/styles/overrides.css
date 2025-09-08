@@ -43,3 +43,5 @@
 
 /* Slightly more breathing room between groups */
 .md-sidebar__scrollwrap .md-nav{ padding-top:.25rem; }
+/* Hide the project title at the very top of the left sidebar */
+.md-nav--primary .md-nav__title { display: none; }
