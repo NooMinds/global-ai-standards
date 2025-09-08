@@ -27,6 +27,6 @@ Your one-off, bespoke instruction for your AI assistant — tailored to your bra
 - **Alignment:** GDPR-first with EU AI Act / ISO/IEC 42001 / NIST AI RMF mapping in plain English
 
 ## Pricing
-- Consultations: **£100 (3h)** · **£450 (5h)** · **£750 (10h)**  
+- Consultations: **£300 (3h)** · **£450 (5h)** · **£750 (10h)**  
   Larger scopes quoted case by case
 
