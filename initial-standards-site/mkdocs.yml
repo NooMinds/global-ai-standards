@@ -27,8 +27,11 @@ nav:
 
   
 
-  - What we did at AI Global Standards: standards/what-we-did.md
-  - What you can do with AI Global Standards: standards/what-you-can-do.md
+- Global AI Custom Consultation:
+    - Overview: custom-instructions.md
+- Global AI Subject Instruction Packs:
+    - Overview: subject-instructions.md
+
 
 
 
