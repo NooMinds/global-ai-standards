@@ -1,8 +1,25 @@
 site_name: Global AI Standards
-site_description: "Single source of truth for GAS AI standards, governance, and compliance."
+site_description: Exam-backed instructions to make AI accurate, compliant, and safe
+site_author: Global AI Standards
 
-repo_url: https://github.com/NooMinds/global-ai-standards
-edit_uri: edit/main/initial-standards-site/docs/
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: indigo        # nav + accents
+      accent: emerald        # buttons/pills
+  features:
+    - navigation.expand      # open sections by default
+    - navigation.sections    # show section headings as groups
+    - content.action.edit
+    - content.action.view
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+
+extra_css:
+  - styles/overrides.css
 
 nav:
   - Home: index.md
@@ -14,67 +31,20 @@ nav:
       - Overview: personal-standard.md
 
   - Global AI Business Standards:
-      - Overview: business-standards.md
+      - Business Standards Overview: business-standards.md
       - Compliance Quick-Guide: compliance.md
 
   - Global AI Business Enterprise:
       - Overview: business-enterprise.md
       - Compliance Quick-Guide: compliance.md
-      
-- Global AI Custom Consultation:
-    - Overview: custom-instructions.md
-- Global AI Subject Instruction Packs:
-    - Overview: subject-instructions.md
 
+  - Global AI Custom Consultation:
+      - Overview: custom-instructions.md
 
+  - Global AI Subject Instruction Packs:
+      - Overview: subject-instructions.md
 
+  - What we did at AI Global Standards: standards/what-we-did.md
+  - What you can do with AI Global Standards: standards/what-you-can-do.md
 
-theme:
-  name: material
-  language: en
-  features:
-    - content.action.edit   # pencil: Edit this page
-    - content.action.view   # View source
-    - navigation.instant
-    - search.suggest
-    - search.highlight
-    - toc.integrate
-theme:
-  name: material
-  language: en
-  features:
-    - navigation.expand      # open all sections by default
-    - navigation.sections    # show section headings as groups
-    - content.action.edit
-    - content.action.view
-    - search.suggest
-    - search.highlight
-    - toc.integrate
-theme:
-  name: material
-  language: en
-  palette:
-    - scheme: default
-      primary: indigo      # nav + accents
-      accent: emerald      # buttons/pills
-  features:
-    - navigation.expand
-    - navigation.sections
-    - content.action.edit
-    - content.action.view
-    - search.suggest
-    - search.highlight
-    - toc.integrate
-
-extra_css:
-  - styles/overrides.css
-
-
-plugins:
-  - search
-
-markdown_extensions:
-  - toc:
-      permalink: true
-docs_dir: docs
 
