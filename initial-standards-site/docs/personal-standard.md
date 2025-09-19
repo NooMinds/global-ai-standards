@@ -1,6 +1,8 @@
 # Global AI Personal Standard
 
-![GAPS Certified badge](assets/badges/gaps-certified.svg){ width=160 height=160 }
+<p><img src="assets/badges/gaps-certified.svg"
+        alt="GAPS Certified badge"
+        style="width:160px;height:auto;display:inline-block;"></p>
 
 Use your AI assistant safely as an individual and get governed, ethical responses.
 
