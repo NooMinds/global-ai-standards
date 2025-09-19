@@ -1,3 +1,8 @@
+<p><img src="assets/badges/gaps-certified.svg"
+        alt="GAPS Certified badge"
+        width="140" height="140"
+        style="display:inline-block;max-width:100%;height:auto;"></p>
+
 # Global AI Personal Standard
 
 <p><img src="assets/badges/gaps-certified.svg"
