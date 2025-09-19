@@ -4,6 +4,8 @@
         alt="GAPS Certified badge"
         style="width:160px;height:auto;display:inline-block;"></p>
 
+
+
 Use your AI assistant safely as an individual and get governed, ethical responses.
 
 **Baseline exam → instruction → badge.**
