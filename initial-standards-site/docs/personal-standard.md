@@ -2,9 +2,8 @@
 
 <p><img src="assets/badges/gaps-certified.svg"
         alt="GAPS Certified badge"
-        style="width:160px;height:auto;display:inline-block;"></p>
-
-
+        width="140" height="140"
+        style="display:inline-block;max-width:100%;height:auto;"></p>
 
 Use your AI assistant safely as an individual and get governed, ethical responses.
 
