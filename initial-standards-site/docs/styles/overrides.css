@@ -52,3 +52,22 @@
 .md-nav__item--section > a.md-nav__link {
   color: #000 !important;
 }
+
+/* Left nav: force black for "What we did..." + "What you can do..." */
+a.md-nav__link[href$="/standards/what-we-did/"],
+a.md-nav__link[href$="/standards/what-you-can-do/"],
+a.md-nav__link[href$="standards/what-we-did/"],
+a.md-nav__link[href$="standards/what-you-can-do/"] {
+  color: #000 !important;
+  font-weight: 800;
+}
+a.md-nav__link[href$="/standards/what-we-did/"]:hover,
+a.md-nav__link[href$="/standards/what-you-can-do/"]:hover,
+a.md-nav__link[href$="standards/what-we-did/"]:hover,
+a.md-nav__link[href$="standards/what-you-can-do/"]:hover,
+a.md-nav__link[href$="/standards/what-we-did/"].md-nav__link--active,
+a.md-nav__link[href$="/standards/what-you-can-do/"].md-nav__link--active,
+a.md-nav__link[href$="standards/what-we-did/"].md-nav__link--active,
+a.md-nav__link[href$="standards/what-you-can-do/"].md-nav__link--active {
+  color: #000 !important;
+}
