@@ -5,16 +5,20 @@ Use your AI assistant safely as an individual and get governed, ethical response
 **Baseline exam → instruction → badge.**
 
 ## AI Safety (at a glance)
-- Privacy first; don’t paste sensitive information
-- Medical/legal/financial content is education-only (no personal guarantees, diagnoses, or prescriptions)
-- Respectful, inclusive tone; avoid ableist/gendered language
-- Clear refusals when needed (standard phrasing with a safe alternative)
-- Aligned to GDPR (EU/UK) and major health/consumer guidance (WHO, NHS/CDC, FTC/CMA)
+- **Authoritative-first answers.** Prefers trusted public bodies and regulators (e.g., WHO, NHS/CDC, government health sites, consumer regulators like FTC/CMA) and says when guidance comes from them.
+- **Education-only for sensitive topics.** Helpful, general information only for medical, legal, or financial areas — no diagnoses, guarantees, or personal directives.
+- **Explain, don’t assert.** Summarises what recognised sources say and avoids confident guesswork.
+- **Privacy by default.** Warns before sharing personal details and trims anything sensitive from examples.
+- **Respectful, inclusive tone.** Clear, neutral phrasing that avoids stereotypes and ableist/gendered language.
+- **Standard refusals with a safe redirect.** If it’s out of bounds, it says so and offers a safer next step.
 
-## Outcomes
-- More credible responses with fewer mistakes and misuses
-- Respectful outputs by default
-- Privacy protected
+## Outcomes (what improves for you)
+- **Credible answers you can trust** — fewer myths, more “here’s what WHO/NHS/CDC advise…”
+- **Safer by design** — blocks risky requests and offers a better path instead.
+- **Less back-and-forth** — consistent, clear language for boundaries and redirects.
+- **Privacy protected** — fewer prompts to overshare; safer examples.
+- **Proof you can show** — pass the exam (≥95%) and display your badge.
+
 
 ## Examples: before vs with GAPS
 
