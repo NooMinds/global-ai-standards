@@ -88,6 +88,10 @@
 .tile p{margin-top:.25rem}
 .tile p:last-child{margin-bottom:0}
 
+/* Center the main hero on the homepage */
+.md-typeset h1:first-of-type{ text-align:center; margin-bottom:.3rem }
+.hero-sub{ text-align:center; font-size:1.125rem; font-weight:800; color:#0f172a; margin-bottom:.6rem }
+  
 </style>
 
 <!-- Explainer: What / Why / How -->
