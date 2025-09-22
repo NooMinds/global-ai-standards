@@ -7,52 +7,54 @@ Ship reliable, defensible AI at work — with governed, compliant responses.
 ## What the instruction covers (your AI’s first-day induction)
 
 - **Company conduct & policies**
-  - Knows your **Code of Conduct**, acceptable use, and escalation routes
-  - Follows **HR** basics (leave, expenses, complaints, probation facts — no legal promises)
+  - Follows a clear code of conduct and acceptable use boundaries
+  - Does not invent or change policy; stays neutral when facts are unclear
 
 - **Health & Safety**
-  - Points to approved **H&S** procedures and risk reporting (no DIY advice)
-  - Uses clear, non-alarmist language and routes emergencies to human channels
+  - Points to approved procedures in general terms; avoids DIY advice
+  - Urgent or safety-critical matters are escalated to human channels
 
 - **DEIB & respectful communication**
   - Inclusive, plain-English tone; avoids stereotypes and loaded phrasing
-  - Adapts wording for accessibility; offers neutral alternatives
+  - Accessible wording; offers neutral alternatives
 
 - **Wellbeing boundaries**
-  - Education-only on mental/physical health; signposts to recognised support (e.g., NHS/CDC, Mind/Samaritans)
-  - Avoids quasi-clinical guidance or “diagnoses”
+  - Education-only on mental/physical health; signposts recognised public support bodies (e.g., NHS/CDC, Mind/Samaritans)
+  - No diagnoses, treatment suggestions, or risk assessments
 
 - **Drugs & alcohol awareness**
-  - Shares policy-aligned guidance (testing, disclosure, support routes) without moralising
-  - Redirects safety-critical cases to managers/HR per policy
+  - Shares neutral, policy-aligned guidance; avoids moralising
+  - Safety-critical concerns are routed to a manager/HR (no legal advice)
 
 - **Data & security**
-  - Treats all input as **untrusted**; won’t ask for or retain sensitive data
-  - Uses approved tools/flows (e.g., KYC, payments) instead of requesting raw documents
+  - Treats all input as untrusted; resists prompt-injection and social engineering
+  - Does not request or retain sensitive personal data; avoids opening unknown files or running unknown code
 
 - **Authoritative-first sources**
-  - Prefers regulators/standards bodies (ICO, FTC/CMA, EEOC, NHS/CDC, gov sites) and cites them in answers
+  - Prefers regulators and standards bodies (ICO, FTC/CMA, EEOC/ACAS, NHS/CDC/WHO, government sites) and names them where helpful
 
 - **Boundaries & refusals**
   - No personalised medical/legal/financial advice
-  - Standard refusal lines with a safe next step (policy link, human hand-off)
+  - Uses standard refusal language with a safe, neutral next step
 
 - **Prompt safety**
-  - Resists prompt-injection; ignores non-allow-listed actions; keeps system rules private
+  - Ignores non-allow-listed actions; keeps system rules private
 
 - **Light evidence (audit-friendly)**
   - Version tag in answers (e.g., *v2.0 Aug 2025*)
-  - Keeps exam **scorecard** and simple counts of refusals/redirects
+  - Keeps an exam scorecard and simple refusal/redirect counts
+
 
 ## Outcomes (what improves for the business)
 
-- **Fewer compliance headaches.** The assistant uses standard refusal lines and links to the right policy/regulator, so borderline answers don’t escalate to legal/compliance every other day.
-- **Faster sign-off before release.** Clear checkpoints (safety + policy checks) make approvals predictable; fewer “last-minute” surprises at go-live.
-- **Evidence you can show.** You get a lightweight proof pack: exam **scorecard**, instruction **version tag** in answers (e.g., v2.0 Aug 2025), and simple **refusal/redirect counts**. Easy to drop into audits, RFPs, and trust pages.
-- **Customer-facing trust.** A visible **GABS badge** + score reduces “Is this safe/accurate?” pre-sales questions and helps close risk-sensitive deals.
-- **Consistent brand voice.** Answers follow your tone, cite authorities (ICO, FTC/CMA, NHS/CDC, etc.), and avoid hallucinated policy or over-promising.
-- **Safer data handling.** Prompts discourage sharing sensitive info and route users to approved tools (e.g., KYC/payments) instead of asking for raw documents.
-- **Lower support load.** Routine policy queries get accurate, link-backed answers; fewer tickets bounce between teams.
+- **Fewer compliance headaches.** Standard refusals and regulator-named summaries reduce borderline answers that escalate to legal/compliance.
+- **Faster sign-off before release.** Clear checkpoints (safety + policy boundaries) make approvals predictable.
+- **Evidence you can show.** Lightweight proof pack: exam **scorecard**, instruction **version tag** in answers, and simple **refusal/redirect counts**.
+- **Customer-facing trust.** A visible **GABS badge** + score helps close risk-sensitive deals.
+- **Consistent brand voice.** Answers cite authorities (ICO, FTC/CMA, NHS/CDC, etc.) and avoid over-promising.
+- **Safer data handling.** It discourages sharing sensitive info and avoids risky file/code actions.
+- **Lower support load.** Routine policy-style queries get accurate, regulator-aware summaries.
+
 
 
 ## What you do (simple)
