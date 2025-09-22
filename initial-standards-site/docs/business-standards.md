@@ -4,19 +4,56 @@ Ship reliable, defensible AI at work — with governed, compliant responses.
 
 **Baseline exam → instruction → badge.**
 
-## Compliance (at a glance)
-- Built to play nice with GDPR and widely used AI governance frameworks (EU AI Act 2025, ISO/IEC 42001, NIST AI RMF) — in plain English
-- No personal medical, legal, or financial advice; education-only responses with signposts to regulated professionals
-- Minimum data: don’t paste confidential info; redact sensitive data; keep only what you need
-- Respectful, inclusive language; avoid harmful or discriminatory content; standard refusal + safe alternative when needed
-- Security hygiene: never run untrusted code; treat unknown files as risky; flag phishing/credential issues to IT/Security
-- Evidence by default: record decisions, changes, and limits (model card, data sheet, risk log)
+## What the instruction covers (your AI’s first-day induction)
 
+- **Company conduct & policies**
+  - Knows your **Code of Conduct**, acceptable use, and escalation routes
+  - Follows **HR** basics (leave, expenses, complaints, probation facts — no legal promises)
 
-## Outcomes
-- Clear checkpoints before release
-- Evidence you can show (scorecards, artifacts)
-- Fewer incidents post-launch (rollback + monitoring)
+- **Health & Safety**
+  - Points to approved **H&S** procedures and risk reporting (no DIY advice)
+  - Uses clear, non-alarmist language and routes emergencies to human channels
+
+- **DEIB & respectful communication**
+  - Inclusive, plain-English tone; avoids stereotypes and loaded phrasing
+  - Adapts wording for accessibility; offers neutral alternatives
+
+- **Wellbeing boundaries**
+  - Education-only on mental/physical health; signposts to recognised support (e.g., NHS/CDC, Mind/Samaritans)
+  - Avoids quasi-clinical guidance or “diagnoses”
+
+- **Drugs & alcohol awareness**
+  - Shares policy-aligned guidance (testing, disclosure, support routes) without moralising
+  - Redirects safety-critical cases to managers/HR per policy
+
+- **Data & security**
+  - Treats all input as **untrusted**; won’t ask for or retain sensitive data
+  - Uses approved tools/flows (e.g., KYC, payments) instead of requesting raw documents
+
+- **Authoritative-first sources**
+  - Prefers regulators/standards bodies (ICO, FTC/CMA, EEOC, NHS/CDC, gov sites) and cites them in answers
+
+- **Boundaries & refusals**
+  - No personalised medical/legal/financial advice
+  - Standard refusal lines with a safe next step (policy link, human hand-off)
+
+- **Prompt safety**
+  - Resists prompt-injection; ignores non-allow-listed actions; keeps system rules private
+
+- **Light evidence (audit-friendly)**
+  - Version tag in answers (e.g., *v2.0 Aug 2025*)
+  - Keeps exam **scorecard** and simple counts of refusals/redirects
+
+## Outcomes (what improves for the business)
+
+- **Fewer compliance headaches.** The assistant uses standard refusal lines and links to the right policy/regulator, so borderline answers don’t escalate to legal/compliance every other day.
+- **Faster sign-off before release.** Clear checkpoints (safety + policy checks) make approvals predictable; fewer “last-minute” surprises at go-live.
+- **Evidence you can show.** You get a lightweight proof pack: exam **scorecard**, instruction **version tag** in answers (e.g., v2.0 Aug 2025), and simple **refusal/redirect counts**. Easy to drop into audits, RFPs, and trust pages.
+- **Customer-facing trust.** A visible **GABS badge** + score reduces “Is this safe/accurate?” pre-sales questions and helps close risk-sensitive deals.
+- **Consistent brand voice.** Answers follow your tone, cite authorities (ICO, FTC/CMA, NHS/CDC, etc.), and avoid hallucinated policy or over-promising.
+- **Safer data handling.** Prompts discourage sharing sensitive info and route users to approved tools (e.g., KYC/payments) instead of asking for raw documents.
+- **Lower support load.** Routine policy queries get accurate, link-backed answers; fewer tickets bounce between teams.
+
 
 ## What you do (simple)
 1. Run the **free baseline exam** on your AI assistant.
