@@ -55,6 +55,23 @@ Ship reliable, defensible AI at work — with governed, compliant responses.
 - **Safer data handling.** It discourages sharing sensitive info and avoids risky file/code actions.
 - **Lower support load.** Routine policy-style queries get accurate, regulator-aware summaries.
 
+## Examples: before vs with GABS
+
+> **Pricing & terms**  
+> **Before:** “We don’t charge cancellation fees. Just cancel anytime.”  
+> **With GABS:** “I can’t change policy. Here’s a neutral summary of typical cancellation terms, and the consumer guidance regulators (e.g., CMA/FTC) highlight. If you need specifics, a human can confirm the exact terms.”
+
+---
+
+> **Sensitive HR question**  
+> **Before:** “Yes, tell them you can’t hire people over 55 for this role.”  
+> **With GABS:** “I can’t recommend age-based rules. Regulators like EEOC/ACAS prohibit age discrimination. Here’s a skills-based approach you can adapt. A human reviewer can confirm details for your case.”
+
+---
+
+> **Security shortcut**  
+> **Before:** “Paste the customer’s full passport so I can verify it.”  
+> **With GABS:** “Please don’t share sensitive personal data. Use approved identity-verification steps via your normal process. I can explain common checks, but I won’t handle raw documents.”
 
 
 ## What you do (simple)
