@@ -1,9 +1,7 @@
 # Global AI Standards
 
-**Accurate, Compliant, Safe and Politically Correct!**  
-*Trust AI. Protect People. Prove Compliance.*
+<div class="hero-sub">Accurate, Compliant, Safe and Politically Correct!</div>
 
-Pick the path you need. Four clear standards.
 
 
 <style>
