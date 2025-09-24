@@ -24,9 +24,9 @@ Pass audits, get approved faster, and show evidence in every answer.
 
 * **Enterprise instruction** with updates for 12 months.
 * **Certification exam** (≥95% = badge) and a shareable score.
-* Optional **AI First‑Day Induction**: train the assistant like a new employee.
+* **AI First‑Day Induction**: train the assistant like a new employee.
 
-## Tiny proof row
+## GABS Enterprise proof row
 
 * Badge: *GABS Verified AI Assistant — GABS v2.3 (Sept 2025)*
 * Example scorecard: *Compliance 97% — Pass*
