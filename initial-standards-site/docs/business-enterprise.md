@@ -1,18 +1,18 @@
 ---
-
-title: "GABS Enterprise — Audit‑ready AI for SMEs"
+title: "GABS Enterprise — Audit-ready AI for SMEs"
 description: "Pass audits, get approved faster, and show evidence in every answer."
-nav\_order: 10
-sidebar\_label: "Enterprise"
-----------------------------
+nav_order: 10
+sidebar_label: "Enterprise"
+---
 
-# GABS Enterprise — Audit‑ready AI for SMEs
+# GABS Enterprise — Audit-ready AI for SMEs
 
 Pass audits, get approved faster, and show evidence in every answer.
 
 [Get Enterprise](/contact) · [See pricing](#pricing)
 
 ---
+
 
 ## Why Enterprise (quick scan)
 
