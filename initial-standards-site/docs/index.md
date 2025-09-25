@@ -11,10 +11,6 @@
   <img src="./img/badges/GAPS.png" alt="GAPS — Global AI Personal Standard" width="160" style="vertical-align:middle;">
 </div>
 
-## What is Global AI Standards — and why it matters
-<p style="text-align:center;margin-top:-.5rem;">&nbsp;</p>
-
-
 
 <style>
 .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin:1rem 0}
@@ -109,7 +105,8 @@
 <!-- Explainer: What / Why / How -->
 <section aria-labelledby="gas-explainer" class="explainer">
   <h2 id="gas-explainer">What is Global AI Standards — and why it matters</h2>
-
+<p style="text-align:center;margin-top:-.5rem;">&nbsp;</p>
+  
   <div class="explainer-grid">
     <!-- What -->
     <article class="card">
