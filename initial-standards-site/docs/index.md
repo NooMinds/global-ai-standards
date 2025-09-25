@@ -11,6 +11,8 @@
   <img src="./img/badges/GAPS.png" alt="GAPS — Global AI Personal Standard" width="160" style="vertical-align:middle;">
 </div>
 
+## What is Global AI Standards — and why it matters
+<p style="text-align:center;margin-top:-.5rem;">&nbsp;</p>
 
 
 
