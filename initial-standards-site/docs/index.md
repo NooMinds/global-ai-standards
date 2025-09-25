@@ -2,12 +2,15 @@
 
 <div class="hero-sub">Accurate, Compliant, Safe and Politically Correct!</div>
 
-### Your badges
+<h3 style="text-align:center;margin:0 0 .75rem;">Your badges</h3>
 
-<img src="./img/badges/GABS.png" alt="GABS — Global AI Business Standard" width="160">
-<img src="./img/badges/GABS-Enterprise.png" alt="GABS — Enterprise" width="160">
-<img src="./img/badges/GACS.png" alt="GACS — Global AI Child Safety" width="160">
-<img src="./img/badges/GAPS.png" alt="GAPS — Global AI Personal Standard" width="160">
+<div style="display:flex;justify-content:center;gap:14px;flex-wrap:wrap;margin:0 auto 1.25rem;">
+  <img src="./img/badges/GABS.png" alt="GABS — Global AI Business Standard" width="160" style="vertical-align:middle;">
+  <img src="./img/badges/GABS-Enterprise.png" alt="GABS — Enterprise" width="160" style="vertical-align:middle;">
+  <img src="./img/badges/GACS.png" alt="GACS — Global AI Child Safety" width="160" style="vertical-align:middle;">
+  <img src="./img/badges/GAPS.png" alt="GAPS — Global AI Personal Standard" width="160" style="vertical-align:middle;">
+</div>
+
 
 
 
