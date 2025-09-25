@@ -104,9 +104,6 @@
 
 <!-- Explainer: What / Why / How -->
 <section aria-labelledby="gas-explainer" class="explainer">
-## What is Global AI Standards — and why it matters
-<p style="text-align:center;margin-top:-.5rem;">&nbsp;</p>
-
 
   
   <div class="explainer-grid">
