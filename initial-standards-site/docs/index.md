@@ -2,6 +2,12 @@
 
 <div class="hero-sub">Accurate, Compliant, Safe and Politically Correct!</div>
 
+### Your badges
+
+<img src="./img/badges/gabs-green.png" alt="GABS — Business badge" width="160">
+<img src="./img/badges/gabs-enterprise.png" alt="GABS — Enterprise badge" width="160">
+<img src="./img/badges/gacs-yellow.png" alt="GACS — Child Safety badge" width="160">
+<img src="./img/badges/baps-silver.png" alt="BAPS — Personal badge" width="160">
 
 
 <style>
@@ -174,10 +180,4 @@
     </a>
     <a href="business-enterprise/" class="cta-card cta-card--amber">Enterprise (£499)</a>
   </div>
-
-<img src="./img/badges/gabs-green.svg" alt="GABS — Global AI Business Standard" />
-<img src="./img/badges/gabs-enterprise.svg" alt="GABS — Enterprise" />
-<img src="./img/badges/gacs-yellow.png" alt="GACS — Global AI Child Safety" />
-<img src="./img/badges/baps-silver.png" alt="BAPS — Global AI Personal Standard" />
-
 
