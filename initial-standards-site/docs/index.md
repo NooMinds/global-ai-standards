@@ -4,10 +4,11 @@
 
 ### Your badges
 
-<img src="./img/badges/gabs-green.png" alt="GABS — Business badge" width="160">
-<img src="./img/badges/gabs-enterprise.png" alt="GABS — Enterprise badge" width="160">
-<img src="./img/badges/gacs-yellow.png" alt="GACS — Child Safety badge" width="160">
-<img src="./img/badges/baps-silver.png" alt="BAPS — Personal badge" width="160">
+<img src="./img/badges/GABS.png" alt="GABS — Global AI Business Standard" width="160">
+<img src="./img/badges/GABS-Enterprise.png" alt="GABS — Enterprise" width="160">
+<img src="./img/badges/GACS.png" alt="GACS — Global AI Child Safety" width="160">
+<img src="./img/badges/GAPS.png" alt="GAPS — Global AI Personal Standard" width="160">
+
 
 
 <style>
