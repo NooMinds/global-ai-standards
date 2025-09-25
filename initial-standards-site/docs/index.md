@@ -1,6 +1,6 @@
 # Global AI Standards
 
-<div class="hero-sub">Accurate, Compliant, Safe and Politically Correct!</div>
+<div class="hero-sub">Your Inducted AI Assistant - Accurate, Compliant, Safe and Politically Correct!</div>
 
 <h3 style="text-align:center;margin:0 0 .75rem;">Your badges</h3>
 
